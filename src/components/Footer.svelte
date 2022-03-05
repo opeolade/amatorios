@@ -9,4 +9,7 @@
         justify-content: center;
         align-items: center;
     }
+    p {
+        font-family: 'Handlee';
+    }
 </style>
