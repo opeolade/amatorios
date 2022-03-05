@@ -1,5 +1,8 @@
+<script>
+    let year = new Date().getFullYear();
+</script>
 <footer>
-    <p>Copyright &copy;</p>
+    <p>Amatorios Copyright &copy; {year}</p>
 </footer>
 <style>
     footer {
