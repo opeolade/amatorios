@@ -22,6 +22,7 @@
         flex: 1;
         column-gap: 10px;
         justify-content: center;
+        align-items: center;
     }
     
     .brand h1 {
@@ -54,7 +55,7 @@
     }
     
     .brand img {
-        height: 5vw;
+        height: 3.75vw;
     }
     
     .brand img:hover {
