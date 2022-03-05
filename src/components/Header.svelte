@@ -1,7 +1,7 @@
 <header>
     <a class="brand" href="/">
         <h1 class="name">
-            <img src="../../static/images/favicon.svg" alt="">
+            <img src="/static/images/favicon.svg" alt="">
             Amatorios
         </h1>
         <h1 class="rated">21+</h1>
@@ -54,7 +54,7 @@
     }
     
     .brand img {
-        height: 50px;
+        height: 5vw;
     }
     
     .brand img:hover {

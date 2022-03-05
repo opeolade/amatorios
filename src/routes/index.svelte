@@ -10,7 +10,7 @@
 <div class="row">
     <div class="column">
         <div class="image">
-            <img src="../../static/images/amatorios.png" alt="">
+            <img src="/static/images/amatorios.png" alt="">
         </div>
         <div class="card">
             <p>Ever dreamt of attending a crazy house party with no manners, cozy rules in a secured and coded environment? Amatorios is here to make your fantasy come true. On the 25<sup>th</sup> of March from 19:00pm, all sort of manners will be set loose.</p>
@@ -42,7 +42,7 @@
     .button-holder button {
         border-radius: 125px;
         padding: 10px 50px;
-        font-size: xx-large;
+        font-size: 3vw;
     }
     
     .button-holder button:hover {

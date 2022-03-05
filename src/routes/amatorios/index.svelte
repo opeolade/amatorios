@@ -1,15 +1,6 @@
 <script>
     function straight() {
-        window.open("/amatorios/straight", "_self");
-    }
-    function gay() {
-        window.open("/amatorios/gay", "_self");
-    }
-    function lesbian() {
-        window.open("/amatorios/lesbian", "_self");
-    }
-    function biSexual() {
-        window.open("/amatorios/bi-sexual", "_self");
+        window.open("https://forms.gle/N1aBdbpniEHU5YDo9", "_self");
     }
 </script>
 <h1>Amatorios</h1>
@@ -17,19 +8,19 @@
 <div class="row">
      <button on:click={straight} class="column">
         <h5>Straight</h5>
-        <img src="../../../static/images/straight.png" alt="">
+        <img src="/static/images/straight.png" alt="">
     </button>
-     <button on:click={gay} class="column">
+     <button on:click={straight} class="column">
         <h5>Gay</h5>
-        <img src="../../../static/images/gay.png" alt="">
+        <img src="/static/images/gay.png" alt="">
     </button>
-     <button on:click={lesbian} class="column">
+     <button on:click={straight} class="column">
         <h5>Lesbian</h5>
-        <img src="../../../static/images/lesbian.png" alt="">
+        <img src="/static/images/lesbian.png" alt="">
     </button>
-     <button on:click={biSexual} class="column">
+     <button on:click={straight} class="column">
         <h5>Bi-Sexual</h5>
-        <img src="../../../static/images/bi-sexual.png" alt="">
+        <img src="/static/images/bi-sexual.png" alt="">
     </button>
 </div>
 <style>
