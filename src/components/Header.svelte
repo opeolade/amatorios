@@ -1,7 +1,7 @@
 <header>
     <a class="brand" href="/">
         <h1 class="name">
-            <img src="/static/images/favicon.svg" alt="">
+            <img src="./images/favicon.svg" alt="">
             Amatorios
         </h1>
         <h1 class="rated">21+</h1>

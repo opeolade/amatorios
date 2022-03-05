@@ -8,19 +8,19 @@
 <div class="row">
      <button on:click={straight} class="column">
         <h5>Straight</h5>
-        <img src="/static/images/straight.png" alt="">
+        <img src="./images/straight.png" alt="">
     </button>
      <button on:click={straight} class="column">
         <h5>Gay</h5>
-        <img src="/static/images/gay.png" alt="">
+        <img src="./images/gay.png" alt="">
     </button>
      <button on:click={straight} class="column">
         <h5>Lesbian</h5>
-        <img src="/static/images/lesbian.png" alt="">
+        <img src="./images/lesbian.png" alt="">
     </button>
      <button on:click={straight} class="column">
         <h5>Bi-Sexual</h5>
-        <img src="/static/images/bi-sexual.png" alt="">
+        <img src="./images/bi-sexual.png" alt="">
     </button>
 </div>
 <style>
