@@ -64,7 +64,7 @@
     }
     
     .card .button-holder {
-        column-gap: 50px;
+        column-gap: 5vw;
     }
     
     img {
