@@ -12,7 +12,7 @@
     </button>
      <button on:click={straight} class="column">
         <h5>Food</h5>
-        <img src="./images/Food.png" alt="">
+        <img src="./images/food.png" alt="">
     </button>
      <button on:click={straight} class="column">
         <h5>Games</h5>
