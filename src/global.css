@@ -73,4 +73,7 @@ h6 {
     .brand img {
         height: 6vw !important;
     }
+    .about {
+        font-size: 7vw !important;
+    }
   }
