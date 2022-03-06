@@ -7,20 +7,20 @@
 <p>Amatorios is an exclusive event basically designed for those with wild fantasies, an event rated 21<sup>+</sup>. What to expect:<br>*Mannerless girls *Unclad girls *Girls that matches your fantasy, just give us a preference of what you want *Food * 21<sup>+</sup> rated games *Real life sex games.</p>
 <div class="row">
      <button on:click={straight} class="column">
-        <h5>Straight</h5>
-        <img src="./images/straight.png" alt="">
+        <h5>Girls</h5>
+        <img src="./images/girls.png" alt="">
     </button>
      <button on:click={straight} class="column">
-        <h5>Gay</h5>
-        <img src="./images/gay.png" alt="">
+        <h5>Food</h5>
+        <img src="./images/Food.png" alt="">
     </button>
      <button on:click={straight} class="column">
-        <h5>Lesbian</h5>
-        <img src="./images/lesbian.png" alt="">
+        <h5>Games</h5>
+        <img src="./images/erotic.png" alt="">
     </button>
      <button on:click={straight} class="column">
-        <h5>Bi-Sexual</h5>
-        <img src="./images/bi-sexual.png" alt="">
+        <h5>Fantasy Room</h5>
+        <img src="./images/fantasy.png" alt="">
     </button>
 </div>
 <style>
@@ -47,5 +47,6 @@
     }
     img {
         width: 80%;
+        filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(360deg) brightness(0%) contrast(100%);
     }
 </style>
