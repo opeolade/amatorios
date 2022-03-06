@@ -4,7 +4,8 @@
     }
 </script>
 <h1 class="about">What is amatorios all about?</h1>
-<p>Amatorios is an exclusive event basically designed for those with wild fantasies, an event rated 21<sup>+</sup>. What to expect:<br>*Mannerless girls *Unclad girls *Girls that matches your fantasy, just give us a preference of what you want *Food * 21<sup>+</sup> rated games *Real life sex games.</p>
+<p>Amatorios is an exclusive event basically designed for those with wild fantasies, an event rated 21<sup>+</sup>.</p>
+<h1>What to expect: Click any to pick your fantasies.</h1>
 <div class="row">
      <button on:click={straight} class="column">
         <h5>Girls</h5>
